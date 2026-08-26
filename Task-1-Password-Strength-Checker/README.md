@@ -49,6 +49,8 @@ The application checks whether the password contains:
 3. Open `password_app.py`.
 4. Run the Python file.
 5. Enter a password and check its strength.
+   OR
+1. Directly open the 'PasswordStrengthChecker.exe'.
 
 ##  Project Structure
 
