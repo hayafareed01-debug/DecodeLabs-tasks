@@ -22,11 +22,11 @@ A simple desktop application built with **Python** and **Tkinter** that demonstr
 
 ### Main Interface
 
-![Main Interface](screenshot1.png)
+![Main Interface](screenshot1.png.png)
 
 ### Example Output
 
-![Example Output](screenshot2.png)
+![Example Output](screenshot2.png.png)
 
 ## Project Structure
 
