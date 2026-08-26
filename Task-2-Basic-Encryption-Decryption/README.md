@@ -74,10 +74,6 @@ Encrypted    : KHOOR
 
 To decrypt, the same shift value is applied in the opposite direction.
 
-## Author
-
-**Haya Ali**
-Computer Science Student
 
 ## Note
 
