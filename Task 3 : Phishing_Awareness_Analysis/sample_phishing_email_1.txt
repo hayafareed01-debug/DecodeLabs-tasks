@@ -1,0 +1,76 @@
+PHISHING AWARENESS ANALYSIS
+Sample 1: Fake Bank Account Alert
+========================================
+
+ORIGINAL MESSAGE
+----------------------------------------
+
+Subject: URGENT: Your Bank Account Will Be Suspended
+
+Dear Customer,
+
+We detected unusual activity on your bank account.
+
+Your account will be suspended within 24 hours unless you
+verify your information immediately.
+
+Click here to verify your account:
+https://secure-bank-verification.example.com
+
+Please provide your account details and verify your information.
+
+Thank you,
+Bank Security Team
+
+
+SUSPICIOUS KEYWORDS / PHRASES
+----------------------------------------
+
+• URGENT
+• unusual activity
+• suspended
+• within 24 hours
+• verify immediately
+• account details
+
+
+SUSPICIOUS LINK
+----------------------------------------
+
+https://secure-bank-verification.example.com
+
+Reason:
+The domain does not clearly belong to a legitimate bank.
+It is designed to appear trustworthy while requesting
+account verification.
+
+
+PHISHING RED FLAGS
+----------------------------------------
+
+1. Urgent language is used to pressure the recipient.
+2. The message threatens account suspension.
+3. The recipient is asked to verify information immediately.
+4. A suspicious link is provided.
+5. The sender identity is vague.
+6. The message requests sensitive account information.
+
+
+WHY THIS MESSAGE IS UNSAFE
+----------------------------------------
+
+This message is potentially unsafe because it uses urgency
+and fear to pressure the recipient into clicking a suspicious
+link and providing sensitive information. The sender is not
+properly identified, and the request should be verified
+through an official channel.
+
+
+RECOMMENDED ACTION
+----------------------------------------
+
+Do not click the link or provide personal information.
+
+Instead, contact the bank through its official website,
+mobile application, or a trusted phone number to verify
+whether the alert is genuine.
